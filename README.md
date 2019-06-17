@@ -78,4 +78,4 @@ At the end of the file add
   require 'includes/functions/blog.php'; //  blog pro add-on
 ```
 
-4. Open Administration Tool (Backend) in menu Help Desk click Start
+4. Open Administration Tool (Backend) in menu Blog click Start
