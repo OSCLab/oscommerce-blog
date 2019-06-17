@@ -15,15 +15,15 @@ Compatible With:
 
 Files that will be replaced on the server:
 
-includes/modules/social_bookmarks/sb_digg.php
-includes/modules/social_bookmarks/sb_email.php
-includes/modules/social_bookmarks/sb_facebook.php
-includes/modules/social_bookmarks/sb_facebook_like.php
-includes/modules/social_bookmarks/sb_google_plus_one.php
-includes/modules/social_bookmarks/sb_google_plus_share.php
-includes/modules/social_bookmarks/sb_pinterest.php
-includes/modules/social_bookmarks/sb_twitter.php
-includes/modules/social_bookmarks/sb_twitter_button.php 
+- includes/modules/social_bookmarks/sb_digg.php
+- includes/modules/social_bookmarks/sb_email.php
+- includes/modules/social_bookmarks/sb_facebook.php
+- includes/modules/social_bookmarks/sb_facebook_like.php
+- includes/modules/social_bookmarks/sb_google_plus_one.php
+- includes/modules/social_bookmarks/sb_google_plus_share.php
+- includes/modules/social_bookmarks/sb_pinterest.php
+- includes/modules/social_bookmarks/sb_twitter.php
+- includes/modules/social_bookmarks/sb_twitter_button.php 
 
 3. Manually make changes.
 
