@@ -1,6 +1,14 @@
 # Blog Pro - osCommerce add-on
 This module will integrate a professional blogging system on your osCommerce store without a need to install a separate CMS on your sub-domain. Make blogging an effective part of your marketing strategy with Blog Pro.
 
+Why your store needs a personal blog?
+
+* Generate new leads and drive targeted traffic to a web store
+* Increase search engines ranking
+* Quality content for social media by linking to a blog
+* Stand out among the competitors
+* Gather clients feedback in comments and improve your service
+
 Compatible With:
 
 * Community Edition version: All 
@@ -27,7 +35,7 @@ Files that will be replaced on the server:
 
 3. Manually make changes.
 
-admin/languages.php
+In admin/languages.php
  
 after
 
@@ -61,9 +69,13 @@ after
         tep_db_query("delete from posts_content where language_id = '" . (int)$lID . "'");
         // end blog pro add-on
 ```
-admin/includes/application_top.php and
+In admin/includes/application_top.php and
 includes/application_top.php
 
+At the end of the file add
+
 ```php
-  require 'includes/functions/blog.php'; // blog pro add-on
+  require 'includes/functions/blog.php'; //  blog pro add-on
 ```
+
+4. Open Administration Tool (Backend) in menu Help Desk click Start
