@@ -8,6 +8,7 @@ Why your store needs a personal blog?
 * Quality content for social media by linking to a blog
 * Stand out among the competitors
 * Gather clients feedback in comments and improve your service
+* Simple installation
 
 Compatible With:
 
@@ -78,4 +79,10 @@ At the end of the file add
   require 'includes/functions/blog.php'; //  blog pro add-on
 ```
 
-4. Open Administration Tool (Backend) in menu Blog click Start
+4. Open Administration Tool (Backend) in menu "Blog" click on the link "Start".
+
+5. Install module:
+
+- in menu Modules -> Boxes -> button "Install Module" -> select modules (Blog Archives, Blog Search, Popular Posts, Recent Comments, Recent Posts, Rubrics) -> button "Install Module"
+- in menu Modules -> Content -> button "Install Module" -> select modules (Post Subscriptions List, Comments To Post, Next/Previous Post Links, Post Social Bookmarks, Related Products) -> button "Install Module"
+- in menu Modules -> Header Tags -> button "Install Module" -> select modules (Blog Feed, Blog Rich Snippets, Post Open Graph Meta Tags, Post Meta Description, Post Title, Rubric Meta Description, Rubric Title, Rubrics Rel Next/Previous, Twitter Post Card) -> button "Install Module"
