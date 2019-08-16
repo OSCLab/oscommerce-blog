@@ -1,4 +1,5 @@
 # Blog Pro - osCommerce add-on
+
 This module will integrate a professional blogging system on your osCommerce store without a need to install a separate CMS on your sub-domain. Make blogging an effective part of your marketing strategy with Blog Pro.
 
 Why your store needs a personal blog?
